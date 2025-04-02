@@ -80,34 +80,35 @@ OpenAI를 활용해 요약 + 카테고리 분류 + 폴더 저장까지 자동화
 <table style="width: 100%;">
   <thead>
     <tr>
-      <th style="width: 30%;">이름</th>
+      <th style="width: 20%;">이름</th>
       <th style="width: 20%;">포지션</th>
-      <th style="width: 50%;">역할</th>
+      <th style="width: 60%;">역할</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>김태우</td>
-      <td>Project Manager</td>
-      <td>팀 총괄, React Native 기반 프론트엔드 개발, API 연동, UI·UX 구현&디자인</td>
+      <td style="width: 20%;">김태우</td>
+      <td style="width: 20%;">Project Manager</td>
+      <td style="width: 60%;">팀 총괄, React Native 기반 프론트엔드 개발, API 연동, UI·UX 구현&디자인</td>
     </tr>
     <tr>
-      <td>송유선</td>
-      <td>Product Planner</td>
-      <td>서비스 기획, 아이디어 구상, 기획서 작성, 화면 흐름도 설계, UI·UX 구현&디자인, 발표 자료 제작</td>
+      <td style="width: 20%;">송유선</td>
+      <td style="width: 20%;">Product Planner</td>
+      <td style="width: 60%;">서비스 기획, 아이디어 구상, 기획서 작성, 화면 흐름도 설계, UI·UX 구현&디자인, 발표 자료 제작</td>
     </tr>
     <tr>
-      <td>심연호</td>
-      <td>Back-end Developer</td>
-      <td>DB 설계, API 개발, AWS RDS 기반 DB 운영, OpenAI 연동</td>
+      <td style="width: 20%;">심연호</td>
+      <td style="width: 20%;">Back-end Developer</td>
+      <td style="width: 60%;">DB 설계, API 개발, AWS RDS 기반 DB 운영, OpenAI 연동</td>
     </tr>
     <tr>
-      <td>정윤성</td>
-      <td>Back-end Developer</td>
-      <td>서버 구현, API 연동, 로직 처리, EC2 서버 배포, CI/CD 환경 구성</td>
+      <td style="width: 20%;">정윤성</td>
+      <td style="width: 20%;">Back-end Developer</td>
+      <td style="width: 60%;">서버 구현, API 연동, 로직 처리, EC2 서버 배포, CI/CD 환경 구성</td>
     </tr>
   </tbody>
 </table>
+
 
 
 ---
